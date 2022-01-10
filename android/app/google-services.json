@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503913633885",
+    "firebase_url": "https://rootally-2c0d2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rootally-2c0d2",
+    "storage_bucket": "rootally-2c0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503913633885:android:2835ea26ac20c5e6b7d5b4",
+        "android_client_info": {
+          "package_name": "rootally.painscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503913633885-4jf51opr0o8g6turur746sdv9jp8a5fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rootally.painscore",
+            "certificate_hash": "0ef81db353a20c6eacc77219a4a6e58f75582296"
+          }
+        },
+        {
+          "client_id": "503913633885-7t9mpeglro7vt3pppqhipjmn8iokjket.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLYG5BUwZ2wkcdvvlAjWd3UyMw9zKS6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503913633885-7t9mpeglro7vt3pppqhipjmn8iokjket.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
